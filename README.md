@@ -10,5 +10,6 @@ Realization of the simple pathfinding algorithm in 2d space with the console's v
 <p><b>int TargetX, int TargetY</b> - indexes of the final cell in the 2-dimensions array
 <p><b>int* OutPath</b> - list of calculated path's indexes in the 2-dimensions array
 
-The visualizations of the calculated path presented on an image
-<img src=”https://github.com/vshafran/simple-2d-path-finding/blob/main/Resources/visualization_example.jpg”></img>
+<p>The visualizations of the calculated path presented on an image</p>
+
+![alt text](https://github.com/vshafran/simple-2d-path-finding/blob/main/Resources/visualization_example.jpg?raw=true)
